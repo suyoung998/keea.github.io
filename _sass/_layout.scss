@@ -489,6 +489,8 @@ there.
 }
 
 .youtube{
+    position: relative;
     width: 100%;
-    height: auto;
+    height: 0;
+    padding-bottom: 56.25%;
 }
