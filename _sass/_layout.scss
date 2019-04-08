@@ -488,10 +488,15 @@ there.
  }
 }
 
-.youtube{
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
+.youtube {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%;
 }
+
+.youtube iframe {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
