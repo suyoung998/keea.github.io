@@ -1,20 +1,19 @@
 ---
 layout: post
-title:  3D그래픽 프로그래밍 02
+title:  02 - Arc and Trigonometric Functions
 category: 3D Graphics Programming
 use_math: true
 description: Arc and Trigonometric Functions
 ---
-# Arc and Trigonometric Functions
 [동영상 강의 : # LinearAlgebra03 Arc and Trigonometric Functions](https://youtu.be/JYOOUPPB1w8)
 
 <div class="youtube">
 <iframe src="https://www.youtube.com/embed/JYOOUPPB1w8?list=PLrrTotxaO6khHInVhLSw3X16VucWW1v1Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-## 용어 정의
+# 용어 정의
 
-### 선
+## 선
 
 - 직선(line) : 선에 대해서 양끝점이 정해지지 않은 선.
 
@@ -30,7 +29,7 @@ description: Arc and Trigonometric Functions
 
   ![그림2](https://user-images.githubusercontent.com/26755686/56167977-babbe800-6014-11e9-984d-97a73386c03f.png)
 
-### 원
+## 원
 
 ![그림3](https://user-images.githubusercontent.com/26755686/56168871-6403dd80-6017-11e9-9d22-96e97478b734.png)
 
@@ -48,7 +47,7 @@ description: Arc and Trigonometric Functions
 
 - 호(arc) : 원주상에서 두 점 사이의 부분.
 
-### 좌표계
+## 좌표계
 
 ![그림1](https://user-images.githubusercontent.com/26755686/56175373-f31def00-6031-11e9-9321-746d8d8c4df1.png)
 
@@ -58,8 +57,8 @@ description: Arc and Trigonometric Functions
 
 왼손 좌표계 : DirectX 프로그램 등 사용.
 
-## 기본개념
-### 라디안
+# 기본개념
+## 라디안
 
 반지름의 길이가 r인 원 위에서 길이가 r인 호를 잡을 때, 이 호에 대한 중심각의 크기는 반지름의 길이 r에 관계 없이 일정. 이때 이 크기를 단위로 하여 일반 각의 크기를 측정하는 방법을 **호도법**이라하고 이 단위를 **라디안**(radian)이라고 함.
 
@@ -86,7 +85,7 @@ $$
 
 
 
-#### 직각 삼각형
+### 직각 삼각형
 
 ![그림4](https://user-images.githubusercontent.com/26755686/56178126-0a61da00-603c-11e9-80be-46b47bbb7e3d.png)
 
