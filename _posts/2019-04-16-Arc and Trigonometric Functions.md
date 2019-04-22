@@ -89,6 +89,7 @@ $$
 #### 직각 삼각형
 
 ![그림4](https://user-images.githubusercontent.com/26755686/56178126-0a61da00-603c-11e9-80be-46b47bbb7e3d.png)
+
 $$
 sin(\theta) = \dfrac{b}{c}
 $$
