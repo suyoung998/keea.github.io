@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
   {% include head.html %}
-  { % if page.use_math % }
-    { % include mathjax_support % } 
-  { % endif % }
+  {% if page.use_math %}
+    {% include mathjax_support %} 
+  {% endif %}
   <body>
     <div class="page-content">
       <div class="container">
