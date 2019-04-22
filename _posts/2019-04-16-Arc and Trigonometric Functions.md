@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  02 - Arc and Trigonometric Functions
+title: 02 - Arc and Trigonometric Functions
 category: 3D Graphics Programming
 use_math: true
 description: Arc and Trigonometric Functions
