@@ -2,6 +2,7 @@
 layout: post
 title:  3D그래픽 프로그래밍 02
 category: 3D Graphics Programming
+use_math: true
 description: Arc and Trigonometric Functions
 ---
 # Arc and Trigonometric Functions
